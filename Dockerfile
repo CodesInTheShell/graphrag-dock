@@ -1,3 +1,4 @@
+# This is not ready for production
 FROM python:3.12-slim
 
 WORKDIR /app
